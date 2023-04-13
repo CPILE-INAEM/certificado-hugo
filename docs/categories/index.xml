@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Personal Jesus</title>
-    <link>http://example.org/categories/index.html</link>
+    <link>certificado-hugo/categories/index.html</link>
     <description>Recent content in Categories on Personal Jesus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language><atom:link href="certificado-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
