@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'certificado-hugo/'
 languageCode = 'es-ES'
 title = 'Personal Jesus'
 theme = ['hugo-theme-relearn']
